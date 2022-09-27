@@ -13,7 +13,7 @@
   "dependencies": {
     "@0x/order-utils": "^10.2.4",
     "@truffle/hdwallet-provider": "^1.0.35",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "console.table": "^0.10.0",
     "cors": "",
     "dotenv": "^8.2.0",
